@@ -1,6 +1,6 @@
-name: "[Error] in article"
+name: "Error in article"
 description: Report an error in an article
-title: "[Bug]: "
+title: "[Error] in article: "
 labels: ["error in article"]
 body:
   - type: markdown
