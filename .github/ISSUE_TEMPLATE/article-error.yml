@@ -22,7 +22,7 @@ body:
       label: Describe what the error is?
       description: If it is an error with example code or instructions, also tell us what you error you got when executing?
       placeholder: Type here to answer
-      value: "A text error!"
+      value: "Default"
     validations:
       required: true
   - type: textarea
