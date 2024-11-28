@@ -1,5 +1,5 @@
 name: "[Error] in article"
-description: File a
+description: Report an error in an article
 title: "[Bug]: "
 labels: ["error in article"]
 body:
@@ -38,7 +38,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        If it is an error with example code or instructions, also fill in the questions below.
+        ## If it is an error with example code or instructions, also fill in the questions below.
   - type: textarea
     id: expected
     attributes:
