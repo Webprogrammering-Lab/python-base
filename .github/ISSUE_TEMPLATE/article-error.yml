@@ -10,8 +10,8 @@ body:
   - type: input
     id: url
     attributes:
-      label: Link to the error. You should not need to edit this.
-      description: 
+      label: Link to the error
+      description: You should not need to edit this.
       placeholder: https://dbwebb.se
       value: "https://dbwebb.se"
     validations:
@@ -29,7 +29,7 @@ body:
     attributes:
       render: bash
       label: The marked text
-      description: This is the text you marked in the article. You should not need to edit this.
+      description: You should not need to edit this.
       placeholder: Text
     validations:
       required: true
